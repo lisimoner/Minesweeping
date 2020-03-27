@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-image: url('./images/bg.jpg');
+	background-size: 100% 100%;
+}
+.btn{
+	height: 140px;
+	width: 170px;
+	position: absolute;
+	left: 50px;
+	background-image: url('./images/startGame.png');
+	background-size: 100% 100%;
+	cursor: pointer;
+}
+.box{
+	height: 500px;
+	width: 500px;
+	transform: perspective(800px) rotatex(45deg);
+	margin: 20px auto;
+	border-top: 1px solid #B25F27;
+	border-left: 1px solid #B25F27;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+	display: none; 
+}
+.flagBox{
+	position: absolute;
+	top: 50px;
+	left: 50%;
+	width: 200px;
+	height: 50px;
+	margin-left: -100px;
+	color: #333;
+	font-size: 20px;
+	font-weight: bold;
+	display: none;
+}
+
+.alertBox{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.2);
+}
+.alertImg{
+	width: 600px;
+	height: 400px;
+	/* background-image: url('images/success.png'); */
+	background-size: 100% 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	border-radius: 20px;
+}
+.close{
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 40px;
+	width: 40px;
+	background-image: url('./images/closeBtn.png');
+	background-size: 100% 100%;
+	cursor: pointer;
+}
+/*每个小格的样式*/
+.block{
+	height: 49px;
+	width: 49px;
+	border-right: 1px solid #B25F27;
+	border-bottom: 1px solid #B25F27;
+	box-shadow: 0 0 4px #333 inset;
+	background-image: url('./images/cao.jpg');
+	float: left;
+}
+.show{
+	background-image: url('./images/dilei.jpg');
+	background-size: 100% 100%;
+}
+.num{
+	background: #ECD0A1;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 49px;
+	text-align: center;
+}
+.flag{
+	background-image: url('./images/hongqi.jpg');
+	background-size: 100% 100%;
+}
