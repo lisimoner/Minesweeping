@@ -1,0 +1,2857 @@
+{
+  "meta": {
+    "title": {
+      "zh": "金秀贤事件澄清",
+      "ko": "김수현 사건 해명",
+      "en": "Kim Soo-hyun Case Clarification"
+    },
+    "languages": [
+      "zh",
+      "ko",
+      "en"
+    ],
+    "default_language": "zh",
+    "i18n_notes": {
+      "ui_labels": "所有 *.label 字段是 {zh,ko,en} 对象,前端按当前语言取",
+      "content_text": "title/description 等正文目前以中文为单一语言;后续可扩展为 {zh,ko,en} 对象",
+      "imgs": "imgs 已按 languages 前缀分组到 zh/ko/en/shared; shared 在所有语言下都展示"
+    }
+  },
+  "tabs": [
+    {
+      "id": "clarification",
+      "label": {
+        "zh": "澄清目录",
+        "ko": "해명 목록",
+        "en": "Clarifications"
+      },
+      "layout": "two-level",
+      "categories": [
+        {
+          "id": "overview",
+          "label": {
+            "zh": "案件概览",
+            "ko": "사건 개요",
+            "en": "Case Overview"
+          },
+          "sub_tabs": [
+            {
+              "id": "case-essence",
+              "label": {
+                "zh": "案件本质",
+                "ko": "사건 본질",
+                "en": "Case Essence"
+              },
+              "layout": "matrix",
+              "entries": [
+                {
+                  "id": "row9-3",
+                  "title": "赖账之前",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/58/1781936457cba532895430fbb0a36b5286f89ff39f.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "时间": "2024年",
+                    "加害者": "金赛纶",
+                    "目的": "赖掉金秀贤公司0息借出的7亿韩元",
+                    "表面上": "发送“哥哥救救我”短信",
+                    "背地里": "对经纪人说要让金秀贤去死因此爆照秒删\n向经纪人编造17岁恋爱声明\n向表姐编造15岁恋爱声明",
+                    "注释": "红色字体是揭发李胜利的女记者姜京允在25年6月于个人博客曝光"
+                  }
+                },
+                {
+                  "id": "row9-4",
+                  "title": "赖账之后",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/38/178193645884558e7b9b1e14953a7f29641a1e00ee.png"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "表面上": "写信给金秀贤谎称“哥哥是我的初恋绝恋”“联系不上才爆照”",
+                    "背地里": "和现任男友交往并且请经纪人买避孕药"
+                  }
+                },
+                {
+                  "id": "row9-5",
+                  "title": "手段",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "时间": "时间",
+                    "加害者": "加害者",
+                    "目的": "目的",
+                    "表面上": "伪证之照片",
+                    "背地里": "伪证之聊天记录",
+                    "注释": "伪证之语音",
+                    "伪证类型": "伪证之信件"
+                  }
+                },
+                {
+                  "id": "row9-6",
+                  "title": "将金赛纶2024年为了赖账诬陷金秀贤编造的赖账声明中15岁那个版本包装为遗书公开\n\n伪造证据",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "时间": "2025年",
+                    "加害者": "金赛纶遗属",
+                    "目的": "谋财害命",
+                    "表面上": "只曝光照片本身，却不曝光照片拍摄日期，煽动引导网友造谣图片日期",
+                    "背地里": "将金赛纶与多个真正未成年男友聊天记录安上金秀贤头像曝光",
+                    "注释": "向他人购买AI语音,并造谣金秀贤买凶杀人抢夺录音,当场被韩国驻美大使馆打假\n\n造谣元彬帮助录音举报人,被元彬本人打假",
+                    "伪证类型": "截图19年信件中\"我爱你”嫁接到18年时期旁,引导网友误以为18年信件中有\"我爱你\"\n\n2018年军队信中没有\"我爱你\",金赛纶的昵称全部写错\n军队信是金秀贤向外面多位普通朋友写的很多封信件中的其中一封\n\n2019年11月明信片中有多处“我爱你”,是恋爱时期明信片"
+                  }
+                },
+                {
+                  "id": "row9-7",
+                  "title": "",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "时间": "金赛纶遗属吸血金赛纶整个人生,还要利用金赛纶的死亡对无辜者谋财害命,是纯粹的加害者"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "facts",
+          "label": {
+            "zh": "核心事实澄清",
+            "ko": "핵심 사실 해명",
+            "en": "Core Facts"
+          },
+          "sub_tabs": [
+            {
+              "id": "debt-truth",
+              "label": {
+                "zh": "7亿债务真相",
+                "ko": "7억 채무 진실",
+                "en": "700M Debt Truth"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row5-2",
+                  "title": "真实债务情况",
+                  "description": "**2022年金赛纶**醉驾后猎犬剧组索赔**7亿韩元**，**金牌公司**垫付后，与**金赛纶**签了**0利息**的借贷合同，**三年时间**，**金赛纶**==一分没还==。\n**2024年金牌公司**为防止法人渎职和**金赛纶**被追缴**1.5亿韩元**赠与税，向**金赛纶**发函，==被金赛纶报复威胁==。**金赛纶**表面上发短信求救“哥哥救救我”，背地里==要让金秀贤去死==爆照==秒删==，==秒删==次日==编造了15岁恋爱==发给表姐，17岁恋爱发给**经纪人**。后得知**金牌公司**仅为走形式，确实==不需要还钱==，**金赛纶**又写信欺骗**金秀贤**“哥哥是我的初恋绝恋”“联系不上才爆照”\n**金赛纶**醉驾后还找其他人借**5亿**,三年全部花完",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row5-3",
+                  "title": "0利息借出7亿三年收回0元",
+                  "description": "**0利息**合同,且随时间变化金额没有任何变化,可见**金赛纶**==一分没还==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/44/1781936451e13e2b2a8e0535633f28e5cf210e5834.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5e/1781936461c3e9eecccc2c91b52740b44ee83511f9.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/44/1781936451e13e2b2a8e0535633f28e5cf210e5834.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/55/178193645757e03bb3ab14bdd567e8a1ddcbfba5b0.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/0e/1781936468364b7e8301678b14e06b715cad32acbf.png",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/67/17819364749fcc6a4d4854d03a0497fee96b97e246.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "金赛纶遗属自爆,姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row5-4",
+                  "title": "另找他人借5亿",
+                  "description": "**金赛纶**找其他多人借钱,记者调查至少**5亿韩元**",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/31/17819364764ede08749ea72c16d64f74aef8c2638b.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/cf/1781936474dc67bcdc2fcd7345f4e2557a0f813b15.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6a/178193647617158f87dfce1ef1885192ed932599ef.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/society/2025/05/23/2025052312414587931"
+                    },
+                    {
+                      "title": "姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row5-5",
+                  "title": "爆照秒删真实目的",
+                  "description": "**金赛纶**向**经纪人**说的爆照==秒删==真实目的",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/83/17819364772998d005f14b11a07ab1e1a2dcc2ccee.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a1/1781936475cd1ab621443b444084d984b79706e96d.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/37/178193647790324665bcede61a96d7c3120c0c7b67.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row5-6",
+                  "title": "爆照秒删次日的声明",
+                  "description": "**金赛纶**爆照==秒删==次日对不同人==编造的2个版本声明==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c6/1781936478c8f75993ea995de2add3dc382ad203cc.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a3/17819364779a7a2ceb276e4e859f044478a15310fc.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d9/17819364786e03c636a992a241846aa1d0333700d1.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row5-7",
+                  "title": "韩国赠与税",
+                  "description": "**韩国国税厅**对赠与税的定义",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/73/1781936480b84ddc1b9583f979f2e31c06d0e7c86a.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/7c/1781936480abcb6e4f39e99e9c5e809a4d1d5d61bb.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/02/1781936479e8c7a36bac4bb85289e3b8797a2bdfc8.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d0/17819364799e6823da66726a566485e27502ca1fa0.jpg"
+                    ],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=6645&cntntsId=7957"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            },
+            {
+              "id": "dui",
+              "label": {
+                "zh": "酒驾",
+                "ko": "음주운전",
+                "en": "DUI"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row10-3",
+                  "title": "25年男演员酒驾后自尽",
+                  "description": "**25年**韩国男演员宋英奎酒驾后作品下车受到舆论谴责之后自尽",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0a/1781936445a194577ad992407109d5e522a1212e3c.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/61/178193644677bf8657bf454ddf8d7d9db0a5952636.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/8a/178193644525106cb453aaaa230cd43a7ced26bab9.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/382/0001198010"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-4",
+                  "title": "19年男演员协助酒驾作品下车",
+                  "description": "**2019年**男演员吴胜允因协助酒驾从《melot体质》下车",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b7/1781936447705f80733bf6523e0aa21fdc40abe0d7.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/65/1781936446243cb2a031519d65ee9a56b341f380a3.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6e/1781936447446a1e1430ad89befacdcf180a36cf6f.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.nocutnews.co.kr/news/5181850?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-5",
+                  "title": "18年男演员酒驾后下车",
+                  "description": "**2018年**男演员尹泰荣因酒驾从《百日的郎君》下车",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e6/1781936448c9da87d68fe440418a551bce5b258b4d.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/4c/1781936447c9b55959a65b054eeb98c4388c3bd12e.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/eb/17819364492181398c67ef096a99876c2aaa7b04cb.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://v.daum.net/v/20180521012744134?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-6",
+                  "title": "20年男演员酒驾后下车",
+                  "description": "**2020年**男演员裴晟佑因酒驾从《飞吧开天龙》下车",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b9/17819364497773d9287966dd2a6349211f3c08ba59.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/30/1781936449c79dde615012f5996741e90f137dd000.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/48/17819364514de2673b629b7e78aa27fa8f067bc8f0.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.chosun.com/culture-life/2020/12/11/MNAJEABSJNG2BLCTOJ3N3LT6GY/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-7",
+                  "title": "KBS禁止酒驾人员出演",
+                  "description": "**2022年KBS**电视台将三名酒驾艺人列为禁止出演名单",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6d/178193645107974770e9cafefe299e0d753c13ef8e.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0d/17819364516f78b697e771b19a4ab63bcc44f8de47.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/29/1781936453ef72dde38b19ccaa2ca5d748ab55f34a.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.newspim.com/news/view/20221222000184"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-8",
+                  "title": "金赛纶醉驾有六个律师打官司",
+                  "description": "醉驾后**六个律师**打官司,其中**四名律师**是**金牌公司**提供,两个是**金赛纶**额外聘请",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1e/17819364193387a91c23a2c281d741c0d7d0ebc27d.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ef/1781936417498d67cce3481b5377a7d556ff2a60d9.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/07/1781936419f147d97dea76fe30cbbf97c6188a734d.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/018/0005441900"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-9",
+                  "title": "金赛纶酒驾经过",
+                  "description": "**金赛纶**与歌手男友分手后在酒吧找女性朋友通宵酗酒,于清晨开路虎卫士醉驾,==酒精浓度0.227==,==撞上变压器导致街区停电==,事发后==逃离现场==\n**金赛纶**和协助酒驾的女伴均被**法院**判罚金刑",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/05/17819364535967274011ab725a6e501d24bf99a2b9.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/44/178193645433837c0c120071d3e7d7b756618d2e27.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ad/1781936452ed572b6c22807da28429f87cc8e3c2b8.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fe/17819364523f2183e309649759810e385540688017.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/17/1781936454d298b7662c41081360b3a0f178747c56.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a1/178193645539af957848d4e2ef5b14bcc7634de364.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/society/2023/03/09/2023030911451668587?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "来源链接",
+                      "url": "https://n.news.naver.com/article/comment/008/0005179475"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row10-10",
+                  "title": "金赛纶酒驾同乘女性被判刑",
+                  "description": "21岁素人女性协助**金赛纶**醉驾,被判500万罚金刑",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/78/1781936456348f93593ac13238371f1df70da88f44.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/75/17819364546498eb003e7256561cda5b90f17fd93f.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c5/17819364574dc51a394a450438e2d63a066142b40f.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.yna.co.kr/view/AKR20230412066200004"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            },
+            {
+              "id": "lies",
+              "label": {
+                "zh": "金赛纶谎言对比",
+                "ko": "김새론 거짓말 정리",
+                "en": "Sae-ron's Lies"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row11-2",
+                  "title": "24年9月尝试自尽留下遗书",
+                  "description": "**金赛纶24年**9月8日尝试自尽，当时发INS限时动态当做遗书，被朋友看到后救下，她当时的遗书内容是：“我的酒精浓度是0，也没有导致停电”",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/33/1781936438c2e063173802876a136b88bc404bf7b1.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/b2/17819364382fb72e9d2e8522a1735997fd0fd1df8a.png"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f1/1781936438c61b44dcecdfcc69a897da9a3aa2de89.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://ent.sbs.co.kr/m/article.do?article_id=E10010301728"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row11-3",
+                  "title": "金赛纶秒删历史",
+                  "description": "**金赛纶**==秒删==历史",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row11-4",
+                  "title": "2个版本未成年恋爱声明",
+                  "description": "**金赛纶**爆照==秒删==次日对不同人==编造的2个版本声明==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c6/1781936478c8f75993ea995de2add3dc382ad203cc.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b8/178193643903d9af0d5de9dcd3da912a633313d784.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d9/17819364786e03c636a992a241846aa1d0333700d1.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row11-5",
+                  "title": "爆照秒删真实目的",
+                  "description": "**金赛纶**爆照==秒删==真实目的以及她写给**金秀贤**的信件对比",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/83/17819364772998d005f14b11a07ab1e1a2dcc2ccee.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3a/17819364414b9338492548c710e00019ba5c9d16b8.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a1/1781936475cd1ab621443b444084d984b79706e96d.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ed/1781936440d493660e279b051f72b31462b2b57602.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/95/17819364404b1a2ca05e4605bbbf3a5bf86ae6f7f8.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b7/1781936440d470789af85292ef98716347fd07687b.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者博客",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row11-6",
+                  "title": "“哥哥是我的初恋”",
+                  "description": "**金赛纶遗属**自爆**金赛纶17年**备忘录并谎称备忘录是写给**金秀贤**的，备忘录中**金赛纶**写到“受到前任伤害“。\n按**遗属**说法备忘录是写给**金秀贤**的，则说明**金秀贤**并非**金赛纶**的初恋，**金赛纶**在撒谎欺骗**金秀贤**是她的初恋\n实际上备忘录并非写给**金秀贤**的，**金秀贤**也不是**金赛纶**的初恋",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/cc/17819364427dcff21bc21d0581ead432c0393bf7e6.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d2/178193644351e6888cdfc0224b8c69e4d2c0edaeb5.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/f6/178193644135c89137733593a5903cf86a26d7eb5d.png",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ed/1781936440d493660e279b051f72b31462b2b57602.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b7/1781936440d470789af85292ef98716347fd07687b.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "遗属自爆自相矛盾的证据",
+                      "url": "https://v.daum.net/v/20251126150746560?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row11-7",
+                  "title": "“哥哥是我最后的爱情”",
+                  "description": "**金赛纶**在爆照==秒删==后写信给**金秀贤**谎称联系不上才爆照，因此写信时间在**2024年**3月之后。\n但是记者曝光她在当时有男友，且**24年**2月还在叫**经纪人**买避孕药，**金赛纶22年**醉驾时的男友也被韩媒曝光\n因此信中“**金秀贤**是最后的爱情”是**金赛纶**欺骗**金秀贤**",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/8f/1781936444cb17f67ddbfbdc246a118c7677741e14.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a7/1781936444d33cdae7b46008eab1cc4b5f3c256ae5.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/8f/1781936444cb17f67ddbfbdc246a118c7677741e14.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ed/1781936440d493660e279b051f72b31462b2b57602.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e6/1781936444b1763ba38b873a503e036c1a818d7748.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b7/1781936440d470789af85292ef98716347fd07687b.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者博客\n曝光金赛纶和经纪人聊天记录",
+                      "url": "https://m.blog.naver.com/strongyoun-now/223912652394"
+                    },
+                    {
+                      "title": "报道和曹承衍分手后醉驾逃逸",
+                      "url": "https://www.mt.co.kr/society/2025/04/12/2025041215045310481?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            },
+            {
+              "id": "deleted-posts",
+              "label": {
+                "zh": "金赛纶秒删历史",
+                "ko": "김새론 삭제 이력",
+                "en": "Sae-ron's Deleted Posts"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row7-2",
+                  "title": "24年4月20日秒删",
+                  "description": "**24年**4月20日,**金赛纶**在话剧剧组下车后发INS限时动态又==秒删==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/7c/1781936432849f8522af18e2531bbd3730fe8d9ff6.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/7a/178193627290baa0d6b49a3809cbad7ab570afaec0.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/32/178193647657df22f477ca827beb3799aaafcb55f2.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.chosun.com/national/national_general/2024/04/20/JXVHMXQDHZGW3GOVQ7K54FPHEM/"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row7-3",
+                  "title": "24年7月17日秒删",
+                  "description": "1.**24年**7月17日,**金赛纶**==秒删==海钓照片\n2.对**经纪人**说是母亲==秒删==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5a/1781936485c58e682735be064a658ad474178358b0.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/03/1781936480cab08dac422f9ad4129ebc45035ded35.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/27/1781936489ad8931ee5c521982fec074fd97361b93.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "海钓秒删:",
+                      "url": "https://www.chosun.com/entertainments/broadcast/2024/07/17/OD4PFJRHZA3URMQXVWZDID6ITE/?outputType=amp"
+                    },
+                    {
+                      "title": "金赛纶与经纪人聊天记录:",
+                      "url": "https://m.blog.naver.com/PostView.naver?blogId=strongyoun-now&logNo=223907299676&navType=by"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row7-4",
+                  "title": "24年8月7日秒删",
+                  "description": "1.**24年**8月7日,**金赛纶**==秒删==猎犬剧组剧照\n2.对**经纪人**声称母亲==秒删==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fe/178193650009b3ee305599196064b0e3da80c75e53.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/39/1781936495cb778f028b7cc5de551792ea728bc6dd.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/79/178193650687aab1eb14ce9061879d649cd60cbe6b.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.heraldmuse.com/article/3449206"
+                    },
+                    {
+                      "title": "金赛纶与经纪人聊天记录:",
+                      "url": "https://m.blog.naver.com/PostView.naver?blogId=strongyoun-now&logNo=223907299676&navType=by"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row7-5",
+                  "title": "25年1月6日秒删",
+                  "description": "1.对**前男友**声称老公==秒删==\n2.**2025年**1月6日,**金赛纶**==秒删==与老公合照",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/02/17819363852c4fa0eaccf30381afaba6486aea8fd1.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5a/1781936381a371a966f02a828e119ce949c67b0704.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/04/1781936391a932a0a7726f0422748e9840e54a19b6.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/article/629/0000375534"
+                    },
+                    {
+                      "title": "金赛纶秒删和老公合照韩网：",
+                      "url": "https://biz.chosun.com/entertainment/enter_general/2025/01/08/MN6OL4EUPVFP5ZUJA2CLFHPCZQ/"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "background",
+          "label": {
+            "zh": "金赛纶背景",
+            "ko": "김새론 배경",
+            "en": "Kim Sae-ron's Background"
+          },
+          "sub_tabs": [
+            {
+              "id": "men",
+              "label": {
+                "zh": "金赛纶的男人们",
+                "ko": "김새론의 남자들",
+                "en": "Sae-ron's Men"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row12-6",
+                  "title": "老公晒出金赛纶手写信",
+                  "description": "**美国老公**没出席葬礼,但晒出**金赛纶**写的信,信中**金赛纶**为自己和**前男友**藕断丝连道歉,并表达了对**美国老公**的爱意\n**金赛纶25年**1月6日==秒删==与老公合照,对外谎称老公上号==秒删==",
+                  "member": [
+                    {
+                      "name": "金赛纶美国老公",
+                      "description": "**金赛纶**的现任丈夫，美国人，曾在韩国留学，后在美国工作。两人于**2024年**结婚，但婚姻关系一直备受争议和质疑。"
+                    }
+                  ],
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2e/17819364307a822b2a88964c8482b51cb0266a8f47.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6c/17819364300218dc0dcb5550d35caecf4000f72109.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/02/17819363852c4fa0eaccf30381afaba6486aea8fd1.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/af/1781936430219106e013cac9d65d9291f56abeef31.jpg",
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/b1/17819364312e5080bcef806ad076a17f1bdbc545bd.png"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/cf/178193643216a62c34c1a2cee8b14166ecb7b92533.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/03/1781936432538acdf9b07bd9a9284840bbeaacba30.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "横竖研直播间",
+                      "url": "https://n.news.naver.com/article/008/0005177051?sid=102"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row12-9",
+                  "title": "练习生前任晒出金赛纶聊天记录",
+                  "description": "**前男友**指控**美国老公**==家暴==**金赛纶**,并且晒出**金赛纶**的聊天记录,在聊天记录中**金赛纶**为自己“因被==家暴==被迫和**美国老公**在一起”向**前男友**道歉,且表达了对**前男友**的爱意。\n**金赛纶**老公还曾登录**金赛纶**个人私密INS辱骂**前男友**,让**前男友**不要插足婚姻",
+                  "member": [
+                    {
+                      "name": "金赛纶前男友",
+                      "description": "**金赛纶**的**前男友**，曾与**金赛纶**有过恋爱关系。两人分手后，**前男友**公开指控**美国老公**==家暴==**金赛纶**，并晒出**金赛纶**的聊天记录，揭露了**金赛纶**在与**美国老公**的关系中的困境和痛苦。"
+                    }
+                  ],
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/db/1781936433cd71993f9a1a60a5bb0e8c417484d087.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/8d/1781936433e2d2a417a9f51cbb67dd3c5a99d91d47.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2b/178193643349b4da669eff323b6bd2d10f75383e67.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d3/1781936435aa7c14a9fd1b6f98eee2312adecf6c4b.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/4d/1781936434982c5d7419a8c74f0356ca42495d37ba.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e0/178193643413c021c6a82ecd938778158a12ca1a54.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/db/178193643565630bc622a27b7e3b95641e4820c203.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b2/1781936435a1b719a7965b12a9d3e03a43d484e73f.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f6/1781936436b6c87889a12c4c4f977ead4f3caff970.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fa/17819364362627cf2341dfd6a2320aff8d098d603e.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/52/1781936437d03bcf152c943b56528e11351321d349.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/35/17819364379b60bd0ea499690ec9593f5b4aeb3218.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/629/0000375534"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            },
+            {
+              "id": "real-life",
+              "label": {
+                "zh": "金赛纶真实生活",
+                "ko": "김새론 실제 생활",
+                "en": "Sae-ron's Real Life"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row13-2",
+                  "title": "13岁参加有烟酒的聚会",
+                  "description": "",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d2/178193641552edfe253d9ae13de85ac1490da3cd3f.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/59/1781936415ec8dd829d77b31da35dbdc0bbd3eabca.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/42/17819364163c31d545a6546ca4db0d41d91c76e159.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/entertainment/2014/02/03/2014020309135181251?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row13-3",
+                  "title": "金牌公司提供豪宅宿舍",
+                  "description": "在**金牌公司**住价值千万的大平层公寓作为员工宿舍,开路虎卫士醉驾",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a4/17819364178256a2c6572736b9c76dad374d5823c6.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a4/17819364178256a2c6572736b9c76dad374d5823c6.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b7/17819364177a3b4a5a3c40bd579e3a68ff5aa8ffe4.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://realty.chosun.com/site/data/html_dir/2022/05/22/2022052200136.html?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row13-4",
+                  "title": "醉驾后六个律师打官司",
+                  "description": "醉驾后**六个律师**打官司,其中**四名律师**是**金牌公司**提供,两个是**金赛纶**额外聘请",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/cd/17819364178aa3496d4ec8cf52697b3ff90a79e3f4.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1e/17819364193387a91c23a2c281d741c0d7d0ebc27d.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ef/1781936417498d67cce3481b5377a7d556ff2a60d9.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/07/1781936419f147d97dea76fe30cbbf97c6188a734d.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0018037940&utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/018/0005441900"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row13-5",
+                  "title": "准备创业开咖啡店",
+                  "description": "1.**24年**7月2日新闻:**金赛纶**在咖啡店做经理\n2.**25年**2月17日朋友称**金赛纶**生前打算开咖啡店",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/45/1781936422d24f9a292fbe1e7791378b86e7adda10.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/37/1781936421cdd39cdb10d854a51154a547a984c2cb.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a4/1781936419e167c2eb82f0e664a131285b8de52cac.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/98/17819364199c7b223e04d3c8a244210425d4da7ced.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/76/17819364214e366ed4ef2016af9f72c437f1a01385.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a6/17819364231a84e217e1f0877fbc6e24ffa09a9fb8.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "咖啡店经理:",
+                      "url": "https://www.joongang.co.kr/article/25260559#"
+                    },
+                    {
+                      "title": "朋友说金赛纶生前打算开咖啡店:",
+                      "url": "https://www.chosun.com/national/national_general/2025/02/16/I53ESSKEG5CSZM7YITFY6VBP7I/?outputType=amp"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row13-6",
+                  "title": "向多人借钱共计5亿韩元",
+                  "description": "醉驾后**金赛纶**找很多人借钱一共超过**5亿**",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/40/1781936423aa4325c2a2958e9407556d935400c29b.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/43/1781936423b20b0be6b13b8eb748d1f58c02e6cd2d.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/43/1781936423b20b0be6b13b8eb748d1f58c02e6cd2d.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/society/2025/05/23/2025052312414587931"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row13-7",
+                  "title": "身着奢牌欧美旅游",
+                  "description": "醉驾后**金赛纶**身穿**23年**最新款miumiu在加州迪士尼",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/36/1781936425110458b2961049b4889cb6eafe71ef42.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ae/17819364247702a41767690b47fe0ff95413b5556e.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/17/178193642552cc29ebf6d202af84cd90809c73bef0.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row13-8",
+                  "title": "身着奢牌欧美旅游",
+                  "description": "醉驾后**金赛纶**穿轻奢品牌GANNI**23年**新款针织衫在全美最贵的超市EREWHON采购",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/35/178193642645de6fd20a6c8b01cfb87972b9232bdd.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6d/17819364258f24a3844b0e2643d888da5aeed96a81.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/db/1781936427e14dd322309238ee4f5c876ccae9d158.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row13-9",
+                  "title": "和美国老公的合照",
+                  "description": "**金赛纶25年**==秒删==和**美国老公**在纽约布鲁克林大桥旁拍的合照",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e6/1781936428d6902533e57f53fffe891ec277c30913.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/38/17819364285a3e30301fa143cbb0b02bb89089e550.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/39/17819364298350d1752cac837e421a0680d566dc00.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row13-10",
+                  "title": "24年后在酒吧",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c9/1781936429efe6239134800a65c1da35f1ceac1d17.jpg"
+                    ],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [
+                    {
+                      "title": "金赛纶酒吧蹦迪",
+                      "src": "金赛纶酒吧蹦迪.mp4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "agency-compare",
+              "label": {
+                "zh": "金牌与 YG 资源对比",
+                "ko": "골드메달리스트와 YG 비교",
+                "en": "Gold Medalist vs YG"
+              },
+              "layout": "comparison",
+              "entries": [
+                {
+                  "id": "row14-3",
+                  "title": "时期",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "YG": "2016.11-2019.12",
+                    "Goldmedalist": "2020.1-2022.12 成年时期"
+                  }
+                },
+                {
+                  "id": "row14-4",
+                  "title": "公司性质",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "YG": "韩国最大的娱乐经纪公司之一",
+                    "Goldmedalist": "2020年成立的员工仅有20余名的小作坊"
+                  }
+                },
+                {
+                  "id": "row14-5",
+                  "title": "住宿条件",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "YG": "公司不提供宿舍\n金赛纶与家人住在日山公寓",
+                    "Goldmedalist": "租赁价值25亿以上的首尔城东区160平米大平层作为金赛纶一个人的员工宿舍\n金赛纶参加TVN综艺《ON&OFF》展示了该房屋\n金秀贤在此处给金赛纶洗碗"
+                  }
+                },
+                {
+                  "id": "row14-6",
+                  "title": "资源",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "YG": "影视资源:\n2018 电影 邻里的人们 女主\n2019  playlist制作的网剧 恋爱播放列表四 女二\n2019 TV朝鲜电视剧  欺骗操作团 女二\n\n代言:Senka洁面乳",
+                    "Goldmedalist": "影视资源:\n2020 SBS电视剧无人知晓 童演\n2021 KakaoTv网剧 优秀女巫贾斗心 一番女主\n2021 KBS独幕剧 她们 一番女主\n2022 SBS电视剧 Trolley:命运交叉点 开拍前三天酒驾下车\n2022 网飞剧 猎犬女主 酒驾后下车\n2022 电影 我们的每天每天 酒驾后延期上映\n2022 网剧 优秀女巫贾斗心 第二季 酒驾后流产\n\n代言:理肤泉、Fila"
+                  }
+                },
+                {
+                  "id": "row14-7",
+                  "title": "危机处理",
+                  "description": "",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [],
+                  "extras": {
+                    "YG": "无",
+                    "Goldmedalist": "金赛纶与某歌手分手后心情不好通宵酗酒于清晨开路虎卫士醉驾逃逸,酒精浓度0.227,被法院判处2000万罚金刑,同车21岁女素人被判500万罚金刑\n\n醉驾逃逸后,金牌公司与猎犬剧组协商将违约金降低至7亿,并且先行垫付,给金赛纶找了四名律师为醉驾做刑事辩护,金赛纶自己又请了两名律师组成六律师辩护团\n\n2022年11月金赛纶合约到期不续约,金牌公司和金赛纶签订了0利息的借款合同,并在23年底做坏账处理,直到金赛纶去世3年时间一分没收回"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "family",
+              "label": {
+                "zh": "金赛纶原生家庭",
+                "ko": "김새론 원가족",
+                "en": "Sae-ron's Family"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row15-2",
+                  "title": "父亲在金赛纶去世后立刻去取租房保证金",
+                  "description": "父亲在**金赛纶**去世后立刻去取租房保证金，发现不是**金赛纶**付的保证金，是其他人帮**金赛纶**垫付的，取不出来",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ab/1781936406210c6427626088edacb66d808a339f28.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ab/1781936406210c6427626088edacb66d808a339f28.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1a/17819364064e2fba922cd31c8b444c8cd2f7a854c6.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://naver.me/F9N2FDFX"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row15-3",
+                  "title": "父亲问金赛纶借钱不还",
+                  "description": "父亲在**金赛纶**十四岁的时候问**金赛纶**借了**5亿**，**20年**做生意失败申请破产==赖账==",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c6/1781936407d6e7cb4d90e5548070ef7165e49cd393.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c6/1781936407d6e7cb4d90e5548070ef7165e49cd393.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/97/1781936407a46eb57a7754ef84b714155d745a6569.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://naver.me/5V8zArlu"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row15-4",
+                  "title": "母亲要带孩子自尽",
+                  "description": "母亲在**金赛纶**儿时要带着三个孩子自尽，被**金赛纶**哀求拦下了",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/90/1781936408691298526b56ce370ef0c2b54db19916.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ca/1781936409ad4a0d2acbc816b9ec0644744730a88e.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ca/1781936409ad4a0d2acbc816b9ec0644744730a88e.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row15-5",
+                  "title": "从小出演过多成人电影",
+                  "description": "**金赛纶**的童演作品多是19禁电影，因为大部分家长不愿意让孩子从小接触黑暗血腥暴力色情，但是**金赛纶**父母并不介意",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fc/178193640900c742d4355adc3a912cb3d7b00cf91f.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/dd/178193640938565a731a87016708e12503be5a685b.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0d/1781936410be4cb55824bdf0f3d0759ea32994a286.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row15-6",
+                  "title": "金赛纶是“少女家长”吗？",
+                  "description": "**金赛纶**醉驾后请的律师在酒驾庭审中说**金赛纶**作为少女家长要养活一家人，**金赛纶**父母在她去世后否认**金赛纶**是少女家长",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d4/1781936412914c37158e1e50d0dde822a169ce4f2c.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/35/1781936413418f23fbbd8f84fe98c70a0b120b785e.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c6/1781936413107a307e1e90f979aabfd5832d26d31a.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fb/1781936411d730b8bb05445610c265660b0632b4e3.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/21/1781936411de589f55bac34b00223d9843402ccfc1.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5e/17819364124eca8d7a1ee47ecab507daab24af6bcc.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2e/1781936414203e0a607ec8a6c080c50acb4bed963b.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0018030242&utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.nocutnews.co.kr/news/6308467?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row15-7",
+                  "title": "遗属不知道金赛纶已婚",
+                  "description": "**金赛纶遗属**翻遍了**金赛纶**手机,却声称自己不知道**金赛纶**已婚,在**遗属2025年**3月27日记者会上,**金赛纶遗属**律师回答记者问“为什么不知道**金赛纶**结婚了”,回答说\"**金赛纶**==故意隐瞒==\" \n其实就算**金赛纶**隐瞒了,翻遍手机的**遗属**也会知道一切,**遗属**是==故意隐瞒==**金赛纶**除了**金秀贤**之外的全部人生,给公众塑造出**金赛纶**人生只有**金秀贤**的印象",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [
+                    {
+                      "title": "金赛纶遗属记者会承认已婚",
+                      "src": "金赛纶遗属记者会承认已婚.mp4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "people",
+          "label": {
+            "zh": "相关人物与机构",
+            "ko": "관련 인물 및 기관",
+            "en": "Related People & Orgs"
+          },
+          "sub_tabs": [
+            {
+              "id": "kim-se-ui",
+              "label": {
+                "zh": "金世义犯罪履历",
+                "ko": "김세의 범죄 이력",
+                "en": "Kim Se-ui Criminal History"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row2-2",
+                  "title": "家庭背景",
+                  "description": "父亲是国会议员,前MBC电视台台长",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e9/1781936497f4a2d4cb59bb3dd8362db05db2525bf9.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/cc/178193649696e73e3b29b38f31899ef6eb870f4125.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/61/1781936497bea85f6666dafa5470113153990d4b2c.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://ko.wikipedia.org/wiki/김영수_%281935년%29?"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-3",
+                  "title": "公然漠视司法",
+                  "description": "**金世义**挑衅警察,自爆警察中有订阅者,自爆接受200次警察调查轻车熟路",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/96/17819364983008620799b46d0ca1cfe5625c609eb3.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ab/1781936497b2479333356242c0a022a18fc5ab80b0.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/32/178193649904fa95e93451dd201386c98b647321df.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/society/2025/11/03/2025110315291790013"
+                    }
+                  ],
+                  "videos": [
+                    {
+                      "title": "挑衅警察",
+                      "src": "挑衅警察.mp4"
+                    }
+                  ]
+                },
+                {
+                  "id": "row2-4",
+                  "title": "警方承认拖延调查",
+                  "description": "**警方**承认对**金世义**拖延调查,并且设立集中调查组调查**金世义**",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/14/1781936499e5681e9b08a074e83ba069b1ade86801.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/93/1781936499422c6a13dc5a27468944c799df68a600.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/08/1781936500663b6ac178a01c99a7748e38ff1604d3.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://news.jtbc.co.kr/article/NB12269326"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-5",
+                  "title": "23年将女性照片谎称为裸照被判刑",
+                  "description": "**23年金世义**年因谎称女性议员高旼廷照片是==裸照==并曝光被判赔偿",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0d/17819365015e703d78601f2a4bd50b524e20cfea3a.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e4/178193650225deb47c9fda1345c6cdfd906e187702.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/57/1781936502996efec94e0ef3d2d7c8636aadc5ec25.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://n.news.naver.com/article/056/0011565371?sid=102"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-6",
+                  "title": "污蔑BurningSun事件举报人被公诉",
+                  "description": "**25年金世义**因直播公开burningSun事件(李胜利、郑俊英==被判刑==)公益举报人身份,并且==造谣==污蔑对方,涉嫌违反《公益举报人保护法》被**检方**==提起公诉==,审判进行中",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/9b/17819364055b22dfc026addda855519f9e1b668d6f.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/dc/178193640166e6325b64c0bba5ee38297fbb62dfad.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d6/17819364105f015e0d0eb7cb951650713a1c9a8145.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.pennmike.com/news/articleView.html?idxno=115331"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-7",
+                  "title": "诽谤韩艺瑟曹国李仁荣被起诉",
+                  "description": "**22年金世义**因诽谤韩艺瑟在burningSun夜店吸毒，诽谤曹国，李仁荣被移交至**检方**起诉",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/23/178193650353ba8721df9f8b838ad3832754049ce2.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/97/178193650312c62995132ee2a459bd03e54efb1b5b.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f2/1781936504fc1d37067fc90ef87e4216366ebe2ed4.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.mbn.co.kr/news/society/4742748"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-8",
+                  "title": "诬陷金建模",
+                  "description": "**19年金世义**==诬陷==金建模性侵,被驳回",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/bb/17819365053dddd62de1baf5308b850749e84441e5.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/69/17819365040bb13c99ecdf7816e4fc53ffb38c06cb.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fd/1781936505fcaa72f48a61f5a5fa68ab9ae73ea153.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://naver.me/xS19KlVG"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-9",
+                  "title": "诬陷朴秀洪",
+                  "description": "**21年**==造谣====诬陷==朴秀洪",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/02/1781936506827aaf82e496854c56935e21a5cc9f60.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/69/1781936506557028f59a07fb8f36a0f86e11dabd4d.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2a/17819365074e1e433d187e001207701430d0fed6be.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.ggilbo.com/news/articleView.html?idxno=841203"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-10",
+                  "title": "造谣全智贤离婚",
+                  "description": "**21年**==造谣==全智贤离婚",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/09/17819365080e3b5a8aec8d560e8a7775f018b638f8.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d3/17819365080c0d8dade62cf419b225faab3a75a5de.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/37/1781936508d4f7db15678fd40593b84ec8b2269f9d.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://naver.me/FNm0WRcA"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-11",
+                  "title": "造谣宋永吉被判刑",
+                  "description": "**21年**==造谣==宋永吉嫖娼被判罚金刑",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/90/178193651068dc674e0796c0302d313db1fb03cfa7.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/eb/178193650869b87b15b98310f56d5c7b5036f4a046.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/70/17819365096f6d958436603e0656ab6a1a3e0de626.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.lawissue.co.kr/view.php?ud=202406281620579490b50722e900_12"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-12",
+                  "title": "造谣宋仲基",
+                  "description": "**20年**==造谣==宋仲基与女律师恋爱",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/48/1781936381b150a68f3be138b57c449ce41e1af29a.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ca/178193651001aab5e91d07415caea5d454bb029560.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f4/178193638189a47c498f2fbd4420f1bf3f4979d216.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.news.nate.com/view/20200613n03598?mid=e01"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-13",
+                  "title": "造谣刘在石金泰浩",
+                  "description": "**19年**==造谣==刘在石操控股价,==造谣==无限挑战PD金泰浩收黑钱",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ef/17819363833f9ef30a3a2840fe437e72ac46550cb9.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/02/178193638135a6910edaf96b80e0ee3c591312294d.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1b/17819363831b65b87b9f222d6d8f0cd477f0c087a8.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "http://www.srtimes.kr/news/articleView.html?idxno=52953"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-14",
+                  "title": "造谣李在明被判刑",
+                  "description": "**25年**==造谣==李在明外遇被刑事起诉判罚金刑",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/51/178193638342fe6e124d05373eb58976fd94f57cf4.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ea/17819363837cb48b4efd4c76f77e746953cc20f440.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/de/1781936385d2af9b3239e61e8d71fb119b359e4fe0.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://mbiz.heraldcorp.com/article/10558023"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-15",
+                  "title": "阴谋论李在明",
+                  "description": "**25年**阴谋论==造谣==李在明害死油管主大图书馆",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f3/178193638517960dee26baf6b6acb645e868d644b8.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/52/1781936385864de38f6d064c705aebe7e9ce649cf3.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/59/178193638685fd7936e652f38defc66ac64fa35160.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://naver.me/FM9AXh8R"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-16",
+                  "title": "诬陷吸毒逼死了李善均",
+                  "description": "==诬陷==李善均吸毒，曝光私密录音后第二天李善均自尽",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ca/17819363861d875d072e918db7f4bd530ca29622fa.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fe/178193638847560e862a756e4e0b0967300566a220.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/29/1781936387d7edc50d3b497bd540ec46b7d966b4ba.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row2-17",
+                  "title": "做MBC记者时造假被开除",
+                  "description": "在MBC做记者期间==捏造假新闻==，被MBC电视台开除",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0e/178193639086376f3850a59d6dd491b9b58b2bca00.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e6/1781936389901bae03371b1bcb01805da6fd6783f3.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ea/1781936389cc9d162f3b239271a2b0ab0ac5189af7.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.ziksir.com/news/articleView.html?idxno=7130"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row2-18",
+                  "title": "造谣金赛纶通过猎犬复出",
+                  "description": "**金赛纶**去世前，在直播中==造谣==**金赛纶**酒驾后通过猎犬复出",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": [
+                    {
+                      "title": "金世义网暴金赛纶",
+                      "src": "金世义网暴金赛纶.mp4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kang-reporter",
+              "label": {
+                "zh": "姜京允记者",
+                "ko": "강경윤 기자",
+                "en": "Reporter Kang Kyung-yoon"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row6-2",
+                  "title": "长期骚扰姜京允",
+                  "description": "**金赛纶遗属**代理人**金世义**因**姜京允**等人揭发李胜利burningSun事件怀恨在心，数年来不断折磨==诬陷==**姜京允记者**和李胜利事件的公益举报人",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/06/178193639654e894c21db3f27a5355a76f8e138f13.jpg"
+                    ],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row6-3",
+                  "title": "因骚扰李胜利事件举报人被公诉",
+                  "description": "**金赛纶遗属**代理人**金世义**骚扰曝光李胜利事件匿名举报人，**检方**以**金世义**涉嫌违反《公益举报人保护法》==提起公诉==,审判进行中",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/9b/17819364055b22dfc026addda855519f9e1b668d6f.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/dc/178193640166e6325b64c0bba5ee38297fbb62dfad.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d6/17819364105f015e0d0eb7cb951650713a1c9a8145.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.pennmike.com/news/articleView.html?idxno=115331"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row6-4",
+                  "title": "金赛纶去世新闻通报1小时后将死亡武器化",
+                  "description": "**金赛纶遗属**代理人在**金赛纶**去世被报道（晚上8点50分）仅仅1小时后（晚上10点）就公开直播==诬陷==**姜京允记者**，声称由于**姜京允**报道过**金赛纶**的酒驾事故，造成**金赛纶**精神紧张，间接导致了**金赛纶**的死亡",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b8/17819364210bb119fd0a0ce2d72aa9afde542279ee.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/10/1781936416659f21a93022b24d8482732521832be7.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/10/1781936416659f21a93022b24d8482732521832be7.jpg"
+                    ],
+                    "shared": [
+                      "http://img.ltwebstatic.com/v4/p/ccc/2026/06/20/12/1781936427012c9dbbf87997dd8b2463d998228cd5.png",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d6/17819364336d67de8ba0327a156d864911216c6beb.jpg"
+                    ]
+                  },
+                  "link": [
+                    {
+                      "title": "naver按时间搜索最早的金赛纶死亡新闻",
+                      "url": "https://n.news.naver.com/article/018/0005944671?sid=102"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row6-5",
+                  "title": "编入协助买凶杀人故事中",
+                  "description": "**金世义**在**2025年**5月7日记者会上，公开==诬陷==**姜京允记者**出国前往新泽西帮助**金秀贤**买凶杀害“录音举报人”，**姜京允记者**晒出从未在当时出境的记录，并且向警察局提起刑事诉讼\n**金秀贤**==买凶杀人==也被**韩国驻美大使馆**打假",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2c/1781936442b82c49deff3ec2dfa55c3bf1dce5af82.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/84/178193643620a8bdcbd939834d09b2c55f1e8da247.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b2/178193644751a7e706447082a656218bafb45b6bee.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者晒出未出境记录，起诉金世义",
+                      "url": "https://n.news.naver.com/article/014/0005347099"
+                    },
+                    {
+                      "title": "韩国驻美大使馆辟谣不存在买凶鲨人",
+                      "url": "https://m.entertain.naver.com/home/article/382/0001198010"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "evidence",
+          "label": {
+            "zh": "证据与舆论分析",
+            "ko": "증거 및 여론 분석",
+            "en": "Evidence & Public Opinion"
+          },
+          "sub_tabs": [
+            {
+              "id": "police-evidence",
+              "label": {
+                "zh": "警方通报与补充证据",
+                "ko": "경찰 통보 및 증거",
+                "en": "Police Reports & Evidence"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row3-2",
+                  "title": "警方调查结果",
+                  "description": "韩**警方检方**认定==未成年交往==以及==逼债致死==均为==恶意诽谤==，**遗属**方将他人聊天记录安上**金秀贤**头像，==AI模拟语音==，犯下==恶意诽谤==罪行\n**警方**申请逮捕令经**检方**通过，向**法院**申请逮捕**金赛纶遗属**代理人**金世义**",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/63/1781936485333a01f07579d7ab26ae60f725c2f889.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f0/1781936483542b52e0fb6bec8ee5eb778be0ceb2be.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b4/1781936485ae2a9e0b41e044aef1c34e55d80bcd6f.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://n.news.naver.com/article/025/0003524854?sid=102"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-4",
+                  "title": "聊天记录造假：",
+                  "description": "",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/38/178193648522de437797f0459a14dcd5037bbd1014.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6a/178193648652cd456d3bb05e8f32690bab7d1f7c73.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6a/178193648652cd456d3bb05e8f32690bab7d1f7c73.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/38/178193648522de437797f0459a14dcd5037bbd1014.jpg"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-5",
+                  "title": "AI语音造假：",
+                  "description": "**金赛纶遗属**代理人开记者会曝光==AI语音==的5月7日，还编造了**金秀贤**联合高律师、**姜京允记者**等人==买凶杀人==抢夺录音，被**FBI**调查，**元彬**帮助录音举报人的故事\n当天遭到了多人起诉称自己没有参与==买凶杀人==，**金世义**所展示的伤口图被揭发其实是==网络图片==\n**韩国驻美大使馆**辟谣不存在==买凶杀人==\n**元彬**辟谣压根不知道录音举报人，也并没有借给**金赛纶**钱，只是参加过葬礼，与**遗属**划清界限\n录音举报人还联系了**金秀贤**公司、李镇浩记者等人给出“成年后交往”的**金赛纶**AI录音，并索要钱财，均被识破为==AI模拟语音诈骗==，结果此人又联系了**金赛纶遗属**，与**金赛纶遗属**合作定制了初中X关系AI录音，并且==编造出买凶杀人==抢夺录音的故事\n由于==编造的买凶杀人故事==太离谱，韩国人发起**金赛纶遗属**代理人防治法，在**25年**6月达到7万人请愿",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": []
+                  },
+                  "link": [],
+                  "videos": []
+                },
+                {
+                  "id": "row3-6",
+                  "title": "网络图片冒充伤口图",
+                  "description": "1.**金赛纶遗属**代理人拿网络上的伤口图冒充**金秀贤**==买凶杀人==导致的伤口",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ec/1781936486fb3491ccb8e816a7854da974735612ec.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ec/1781936486fb3491ccb8e816a7854da974735612ec.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ec/1781936486fb3491ccb8e816a7854da974735612ec.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ec/1781936486fb3491ccb8e816a7854da974735612ec.jpg"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-7",
+                  "title": "编造元彬帮忙被打假",
+                  "description": "**金赛纶遗属**编造的**元彬**帮助录音举报人故事被**元彬**打假",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/71/1781936487f7e11d343bdf33207ecbc1ab804c4edc.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/9a/17819364889cf93e3f2f87ccfa460367e3d8b90af2.jpg"
+                    ],
+                    "ko": [],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/43/1781936488ad190a44a42ac000b59302c4cfd5152e.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f9/1781936489db8c916d69eb2f050bdd83b84dc1adea.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/article/311/0001862873"
+                    },
+                    {
+                      "title": "来源链接",
+                      "url": "https://n.news.naver.com/article/008/0005191719"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-8",
+                  "title": "编记者协助杀人被起诉",
+                  "description": "3.**金赛纶遗属**购买AI录音同时编造**姜京允**出境前往新泽西协助==买凶杀人==,被**姜京允**起诉",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2c/1781936442b82c49deff3ec2dfa55c3bf1dce5af82.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/84/178193643620a8bdcbd939834d09b2c55f1e8da247.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b2/178193644751a7e706447082a656218bafb45b6bee.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "姜京允记者晒出未出境记录，起诉金世义",
+                      "url": "https://n.news.naver.com/article/014/0005347099"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-9",
+                  "title": "被韩国驻美大使馆辟谣",
+                  "description": "4.**韩国驻美大使馆**辟谣没有==买凶杀人==案件",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d4/17819364909d98ec6a25c58e2d34a4f76743c646b9.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/41/1781936489f1661f8532ca78972fb0544246c27b45.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6d/1781936491838d80b0b7e90a13271eaf3cb5b43acd.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/382/0001198010"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-10",
+                  "title": "多版录音只有金赛纶遗属购买",
+                  "description": "5.**金秀贤**所属公司也收到同一个录音举报人的录音，对方提供成年后交往录音并索要金钱，被识破为AI诈骗犯。随后该录音举报人又和**金赛纶遗属**合作，==编造未成年==性关系录音并公开，因此**金秀贤**公司早已知道该录音是==AI生成==，并且在**金赛纶遗属**曝光录音的5月7日当天报警提起诉讼",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3f/1781936491bc02e9d9b3a58c80b7acbc6ac62b064d.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/4a/1781936491f843efc99ba9caa2c4933d0e78202fa6.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f3/17819364922b61014b328fe7239b0571d55a77d58c.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/home/article/408/0000264723"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-11",
+                  "title": "多人被编故事起诉金赛纶遗属",
+                  "description": "6.多人被编入==买凶杀人==抢夺==AI语音==故事中，都报警了",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ca/1781936493d76e7648d7bd73703f1fc1b9350a2bac.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a2/178193649224e1a4331d6c6d949952eb747e0048bd.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/72/1781936493b5a2a45c82d58dd46d4a08531e802bc9.jpg"
+                    ],
+                    "shared": []
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://n.news.naver.com/article/015/0005129637"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row3-12",
+                  "title": "遗属只曝光照片并且造谣是未成年",
+                  "description": "通过==只曝光照片本身==,==不曝光照片拍摄时间==的方式,将成年后照片说成未成年时期\n**金赛纶遗属**代理人权英灿直播中泄露了一张拿着**19年**上市的苹果11pro的照片,和**遗属**之前曝光的照片是同一天拍摄的,揭穿了所谓\"**16年**红色羽绒服\"的谎言",
+                  "imgs": {
+                    "zh": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/51/178193649489445f457dfa5a23b9223871ec46675f.jpg"
+                    ],
+                    "ko": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0f/1781936493a4c43110714041b706a533a2d545b16a.jpg"
+                    ],
+                    "en": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/22/17819364950730b6a5a70423de4dbabcfe1d24ea2f.jpg"
+                    ],
+                    "shared": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/57/1781936495821a89d2eda3fe291ec4b2336954b124.jpg"
+                    ]
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://www.mt.co.kr/society/2025/05/28/2025052805073498368"
+                    }
+                  ],
+                  "videos": []
+                }
+              ]
+            },
+            {
+              "id": "media-strategy",
+              "label": {
+                "zh": "遗属舆论策略",
+                "ko": "유족 여론 조작",
+                "en": "Family's Media Strategy"
+              },
+              "layout": "list",
+              "entries": [
+                {
+                  "id": "row4-2",
+                  "title": "“否认未成年交往“被造谣成“否认交往”",
+                  "description": "**金秀贤25年**仅仅否认过“==未成年交往==”,从未否认过“交往”,然而在每次**金秀贤**否认“==未成年交往==”时,**遗属**方都会==造谣==声称“**金秀贤**撒谎,否认交往”然后放出亲密合照“打脸”,给公众塑造**金秀贤**撒谎精不可信任形象",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/de/17819364816ecd382809dc3059b13a3bbadd5c1059.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/00/178193648269f584ff2433d679d13208d60e012f86.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3a/178193648174086aea0294e149fa113cfb7aff4bc8.jpg"
+                    ]
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://m.entertain.naver.com/article/108/0003311312"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row4-3",
+                  "title": "曲解未成年住处声明",
+                  "description": "**遗属**将15年**金赛纶**和其他人在公寓电梯口照片栽赃给**金秀贤**,**金秀贤**说“从未去过**金赛纶**未成年时期的家”,**遗属**春秋笔法==造谣==声称“**金秀贤**不承认去过**金赛纶**家”,然后放出**金赛纶**成年后在**金牌公司**租的千万豪宅大平层员工宿舍中的场景“打脸”,给公众塑造**金秀贤**撒谎精不可信任形象",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/61/17819364824993612450f232e8e9f03f0e7907247f.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ab/17819364820b66e106fd8590aeaab0c045fee79826.jpg",
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/bb/17819364838caacd4078e96de4858d4e36a14b500e.jpg"
+                    ]
+                  },
+                  "link": [
+                    {
+                      "title": "来源链接",
+                      "url": "https://mobile.newsis.com/view/NISX20250318_0003103390"
+                    }
+                  ],
+                  "videos": []
+                },
+                {
+                  "id": "row4-4",
+                  "title": "造谣逼迫金赛纶赔偿眼泪女王损失",
+                  "description": "**金牌公司24年**在**金赛纶**爆照==秒删==后发送的第二封函中,从未要求**金赛纶**赔偿眼泪女王损失,从未威胁**金赛纶**,仅仅请求**金赛纶**不要和公司艺人沟通公司债务问题,而不是阻断**金赛纶**和公司艺人其他方面的社交行为。\n被**遗属**恶意曲解为:禁止**金赛纶**与公司艺人社交和威胁**金赛纶**赔偿眼泪女王损失",
+                  "imgs": {
+                    "zh": [],
+                    "ko": [],
+                    "en": [],
+                    "shared": [
+                      "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/d2/17819364835dfdfeb0ae4a6bb864fc5f74a0044038.jpg"
+                    ]
+                  },
+                  "link": [],
+                  "videos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "label": {
+        "zh": "维权动态",
+        "ko": "권리 보호 동향",
+        "en": "Rights Protection"
+      },
+      "layout": "timeline",
+      "items": [
+        {
+          "id": "row8-2",
+          "time": "20260604",
+          "event": "警方认定金世义诽谤、性暴力、恐吓、强迫未遂等嫌疑成立，以拘留状态移交给检察机关",
+          "nature": "刑事进展",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "诽谤造谣、强迫未遂、恐吓",
+          "result": "警方移交至检察院",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/c3/1781936458c55f5223e1582300e7f127d156531a8a.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/be/1781936458797d6bc4a1d9ae9fa40fe49dd2b331e5.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2f/178193645949255b74e93467648764f1307509d19e.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/001/0016118554?sid=102"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-3",
+          "time": "20260602",
+          "event": "法院驳回金世义对逮捕令的申诉",
+          "nature": "刑事进展",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "诽谤造谣、强迫未遂、恐吓",
+          "result": "法院驳回金世义对逮捕的申诉",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f4/1781936460e4401ebe394c005fba97fc345d10a712.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/23/178193646044ca610b1ff902799afc41dd28aa38c5.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6b/1781936461cfd8a76e7203de7477e0c7f0fbdebfc6.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/422/0000870789?sid=102"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-4",
+          "time": "20260526",
+          "event": "法院通过警方检方对金世义申请的逮捕令",
+          "nature": "刑事进展",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "诽谤造谣、强迫未遂、恐吓",
+          "result": "法院批准逮捕金世义",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e8/17819364620ca958ffd748105abc493cb3513421a0.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/bb/178193646126fbbc6bf26e9fb3cac205d70fa8e906.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/06/1781936463befd3b4763abc4a3010894091ad31d99.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/comment/001/0016100577"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-5",
+          "time": "20260520",
+          "event": "韩警方检方认定未成年交往以及逼债致死均为恶意诽谤，遗属方伪造聊天记录，AI模拟语音，犯下恶意诽谤罪行\n警方申请逮捕令经检方通过，向法院申请逮捕金赛纶遗属代理人金世义",
+          "nature": "刑事进展",
+          "plaintiff": "韩警方、检方",
+          "defendant": "金赛纶遗属",
+          "charge": "诽谤造谣、强迫未遂、恐吓",
+          "result": "警方与检方确认金赛纶遗属犯罪嫌疑成立，向法院申请羁押",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/63/1781936485333a01f07579d7ab26ae60f725c2f889.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f0/1781936483542b52e0fb6bec8ee5eb778be0ceb2be.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/b4/1781936485ae2a9e0b41e044aef1c34e55d80bcd6f.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/025/0003524854?sid=102"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-6",
+          "time": "20260409",
+          "event": "金赛纶遗属代理律师因在夜店等场所进行律师宣传(包括播放金赛纶遗属记者会视频）被法务部律师惩戒委员会惩戒\n金赛纶遗属代理律师不服惩戒提出上诉,被法院驳回",
+          "nature": "司法裁定",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "行为不当",
+          "result": "金赛纶遗属代理律师被惩戒停止处分一个月",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/18/1781936463afc1515b019747decbfa8ffc5f59a45c.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/dd/17819364638993a001c4c42b00ebeb9909bc9f1360.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/18/17819364645d4bfe3627d024c2c0499b402bd29a24.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://www.pennmike.com/news/articleView.html?idxno=118410"
+            }
+          ],
+          "videos": [
+            {
+              "title": "遗属律师酒吧放视频",
+              "src": "遗属律师酒吧放视频.mp4"
+            }
+          ]
+        },
+        {
+          "id": "row8-7",
+          "time": "20260226",
+          "event": "韩警方受理金赛纶在RUN公司的经纪人起诉金赛纶遗属代理人权英灿造谣诬陷其贪污医疗费，并且将金赛纶遗属代理人权英灿移交检方",
+          "nature": "刑事进展",
+          "plaintiff": "金赛纶在RUN公司的经纪人",
+          "defendant": "金赛纶遗属代理人权英灿",
+          "charge": "诽谤造谣",
+          "result": "受理并移交检方",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e2/1781936467bed0ca94cb5fef3997c0aed0312105c4.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ba/1781936465c0d3a904687729bbacbf57ce1a2004df.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/aa/17819364656520a0c6984fe0457d8bf868f3bf6f0a.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.entertain.naver.com/home/article/416/0000321380"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-8",
+          "time": "20260206",
+          "event": "韩警方受理金秀贤粉丝联盟起诉REAL前导演造谣诽谤金秀贤，并且将REAL前导演移交检方",
+          "nature": "刑事进展",
+          "plaintiff": "金秀贤粉丝联盟",
+          "defendant": "REAL前导演",
+          "charge": "诽谤造谣",
+          "result": "受理并移交检方",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/37/17819364679cd0d0ab65c7ff906a59e29ce6dc6f92.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2b/1781936466494e66dd08eab3c16f796baac9ea6991.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ec/17819364674550fa3bb16470f5996da4b587763b13.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.entertain.naver.com/home/article/416/0000320924"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-9",
+          "time": "20260107",
+          "event": "韩警方将金赛纶遗属代理人金世义起诉金秀贤粉丝联盟诽谤置为\"无嫌疑“结案",
+          "nature": "刑事进展",
+          "plaintiff": "金赛纶遗属代理人金世义",
+          "defendant": "金秀贤粉丝联盟",
+          "charge": "诽谤造谣",
+          "result": "无嫌疑结案",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ae/17819364694571b51ddc20918f365514b463d8f13a.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/54/1781936469ce4123330c5a929d930653bbadf853f5.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/55/1781936469a53eed813f6c99f6f662ff303762e14a.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.entertain.naver.com/home/article/477/0000588096"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-10",
+          "time": "20251129",
+          "event": "城东税务局驳回韩国黑粉对金秀贤公司偷税漏税的举报",
+          "nature": "官方机构",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "",
+          "result": "",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/7f/1781936470fa40782c2a636ce59e1485ff4bbeeece.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ef/17819364697e35bcd44dfb9d1cc764cb9c8e9e43c1.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/9f/17819364714401f3f0cd787438a074da4ded588ea5.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.fmkorea.com/9224797612"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-11",
+          "time": "20250821",
+          "event": "韩警方将金赛纶遗属代理人权英灿起诉金赛纶在RUN公司的经纪人贪污医疗费置为“无嫌疑”结案",
+          "nature": "刑事进展",
+          "plaintiff": "金赛纶遗属代理人权英灿",
+          "defendant": "金赛纶在RUN公司的经纪人",
+          "charge": "贪污医疗费",
+          "result": "无嫌疑结案",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/33/1781936472f50101716507eaf33750b3f08ec58a38.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/69/178193647161eee9ea013a84f9e69b4c5e32d5cf16.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3f/1781936472e83052da9f5bf2a4f9b8bbcdef841dc5.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/015/0005175072?sid=102"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-12",
+          "time": "20250519",
+          "event": "韩国驻美大使馆辟谣\"买凶杀人\"不存在",
+          "nature": "官方机构",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "",
+          "result": "",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/19/1781936474a9bf45ecd237adbab2692c95ce24b92f.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/4a/1781936472a10bab55e87fbc6e0968c144707b3d58.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3f/1781936474fffbee604044e7791b9b3bab210c4da4.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.entertain.naver.com/home/article/382/0001198010"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row8-13",
+          "time": "20250509",
+          "event": "元彬本人辟谣称\"没有给金赛纶钱\"\"没有在买凶杀人案中帮助金赛纶录音举报人\"",
+          "nature": "明星辟谣",
+          "plaintiff": "",
+          "defendant": "",
+          "charge": "",
+          "result": "",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/9a/17819364889cf93e3f2f87ccfa460367e3d8b90af2.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/71/1781936487f7e11d343bdf33207ecbc1ab804c4edc.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/43/1781936488ad190a44a42ac000b59302c4cfd5152e.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/f9/1781936489db8c916d69eb2f050bdd83b84dc1adea.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.entertain.naver.com/article/311/0001862873"
+            },
+            {
+              "title": "来源链接",
+              "url": "https://n.news.naver.com/article/008/0005191719"
+            }
+          ],
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": "rumors",
+      "label": {
+        "zh": "辟谣小百科",
+        "ko": "루머 위키",
+        "en": "Rumor Wiki"
+      },
+      "layout": "list",
+      "items": [
+        {
+          "id": "row16-2",
+          "index": 1,
+          "title": "发布会阴阳雪莉",
+          "description": "【中文圈限定谣言】豆瓣谣棍将成东日说的话移花接木安到金秀贤头上栽赃金秀贤阴阳雪莉，迅速登上微博热搜",
+          "imgs": {
+            "zh": [],
+            "ko": [],
+            "en": [],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "雪莉粉丝辟谣：",
+              "url": "https://weibo.com/5894823759/5144249419178067"
+            },
+            {
+              "title": "金秀贤粉丝B站汇总辟谣",
+              "url": "https://b23.tv/QXBkYnC"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-3",
+          "index": 2,
+          "title": "偷税漏税",
+          "description": "国税厅驳回了韩国网友针对金秀贤偷税漏税的举报，该网友在DC上传了举报和被驳回的截图，被人转载到fmk论坛成为热帖",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ae/1781936389f5ff910c58e00803d128fa5687c9a722.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ae/1781936389f5ff910c58e00803d128fa5687c9a722.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/7e/17819363917d1618ae328aa87fd8c978f93fb4134f.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.fmkorea.com/9224797612"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-4",
+          "index": 3,
+          "title": "营销号活体复读机搬运推特上冒充金秀贤的账号发布不当言论",
+          "description": "金秀贤没有推特账号，有人在推特上冒充金秀贤发布不当言论，昵称随时都可以改（当时临时改成了金秀贤），ID无法更改",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/25/1781936391cd13cb72118bb653f2b7ee6c2ce75cc6.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/bf/1781936391edd4ebb0e2ef8edf32a4219906483cd2.jpg"
+            ],
+            "ko": [],
+            "en": [],
+            "shared": []
+          },
+          "link": [],
+          "videos": []
+        },
+        {
+          "id": "row16-5",
+          "index": 4,
+          "title": "外网造谣金秀贤见面会期间要求拆除座位打羽毛球",
+          "description": "被主办方官方辟谣",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/8a/1781936393d4f2c3e3367e56d4188a4797230c81df.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/62/1781936392032e18f4b740341d3ee515a85f4daa23.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/3a/17819363934f7d0ba0cc9bdde14abacced622ceed6.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://www.ejan.co/entertain/15bb408fwz56?utm_source=chatgpt.com"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-6",
+          "index": 5,
+          "title": "造谣金秀贤经纪人是性犯罪者",
+          "description": "2012年钥匙公司负责其他艺人的经纪人涉嫌犯罪，被张冠李戴成负责金秀贤的经纪人",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fa/17819363930501d8be01a5762893836b7ac052cf74.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/49/1781936394c5b292f5537f96b9f78ef7219e010656.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a7/1781936394ea77b4ddd11487005b022f94d7e2f5e4.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "来源链接",
+              "url": "https://m.news.nate.com/view/20121025n21571"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-7",
+          "index": 6,
+          "title": "雪莉哥哥蹭热度造谣逼迫雪莉拍床戏",
+          "description": "电影Real剧组在15年招募演员时就明确告知需要拍摄大尺度戏份并且出了新闻，剧组副导演、剧本统筹实名作证不存在逼迫，雪莉哥哥滑跪承认不存在强迫",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e3/178193639403e77016b1f8f2b1f758a1779b639dcd.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/2f/178193639586a9854beac8a475b5604e4f945cfc88.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/28/1781936396731aa7b8a6e966c4999978a808872bf3.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/fd/1781936396b1655089053e3ba2d6a0f04d675e747b.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/ab/17819363966b3793c17d44bac161ceff4d4b2a8b5f.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e1/178193639742292351abc0dde52c17a23ef1bc3f08.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/11/1781936398f8c46fa53fc92ad4586688d0644098a5.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/33/1781936398a0f78b81bba39f6b3b4ec3e3955e33e0.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/56/1781936398e0246e84cbc3aeade6bc81991ea3ea9a.jpg"
+            ],
+            "shared": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/55/178193639947242166d733d874a0dc9c231b2ad608.jpg"
+            ]
+          },
+          "link": [
+            {
+              "title": "雪莉哥哥滑跪",
+              "url": "https://m.news.nate.com/view/20250403n04236&&mid=e01"
+            },
+            {
+              "title": "15年电影开拍之前出新闻告知有大尺度床戏",
+              "url": "https://m.mk.co.kr/news/hot-issues/7126044?utm_source=chatgpt.com"
+            },
+            {
+              "title": "电影副导演和剧本统筹实名作证不存在逼迫床戏，剧本分镜可证",
+              "url": "https://www.yna.co.kr/view/AKR20250402"
+            },
+            {
+              "title": "雪莉哥哥在25年雪莉祭日纪念美国右翼引发争议",
+              "url": "https://www.chosun.com/english/kpop-culture-en/2025/10/14/CFHLA2XTR5ASBL6HW4TKEDHMMI/?utm_source=chatgpt.com"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-8",
+          "index": 7,
+          "title": "转发金赛纶短信给记者",
+          "description": "金秀贤没有动机自爆与金赛纶的关系，而且接到短信的记者承认并不是从金秀贤那里收来的，揭发李胜利的姜京允记者调查后发现是金秀贤截图转发给金牌公司之后，公司拿去咨询他人的时候被背刺泄露",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/57/178193639951fab7c8019e0ef480746c1b69f1a84c.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/44/17819364012e2509e1845ab6f48d21f99586ce0aec.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/27/178193640042acc17a8bc8ea53577acf87efed567c.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0f/17819364014efaa7686435da1a3fb2f433c02573e6.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "姜京允记者博客",
+              "url": "https://m.blog.naver.com/PostView.naver?blogId=strongyoun-now&logNo=223912652394&navType=by"
+            }
+          ],
+          "videos": []
+        },
+        {
+          "id": "row16-9",
+          "index": 8,
+          "title": "为了给金赛纶的赖账声明圆谎造谣金秀贤点痣",
+          "description": "从来没有点过痣",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6f/1781936402a5016dc5b699be3d71379113fbc81514.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a2/1781936402517b3be08bdc997ab8eae3f2fdd8aa9a.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5d/17819364022293503bda097f482586953910b5c460.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6f/1781936402a5016dc5b699be3d71379113fbc81514.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a2/1781936402517b3be08bdc997ab8eae3f2fdd8aa9a.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5d/17819364022293503bda097f482586953910b5c460.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/6f/1781936402a5016dc5b699be3d71379113fbc81514.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/a2/1781936402517b3be08bdc997ab8eae3f2fdd8aa9a.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5d/17819364022293503bda097f482586953910b5c460.jpg"
+            ],
+            "shared": []
+          },
+          "link": [],
+          "videos": []
+        },
+        {
+          "id": "row16-10",
+          "index": 9,
+          "title": "金赛纶爆照秒删的照片中的耐克T恤是16年上市19年再版",
+          "description": "造谣者拿着AI回复造谣T恤上市时间，按货号搜索和询问客服的结果是中日韩19年上市，美国18年首发",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e6/178193640388fe35f2b45c1652c8b2bd998ce74616.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/5c/1781936404c7cccb3ff7d5efa46d7e5317b91fe961.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1c/1781936404289be4e9ec8e9009900a5fa223cce6ac.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/90/1781936403195ebf0942e35274ed022c0dd7feff47.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/1c/1781936404289be4e9ec8e9009900a5fa223cce6ac.jpg",
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/90/1781936403195ebf0942e35274ed022c0dd7feff47.jpg"
+            ],
+            "shared": []
+          },
+          "link": [],
+          "videos": []
+        },
+        {
+          "id": "row16-11",
+          "index": 10,
+          "title": "金赛纶去世之后金秀贤立刻上传了礼物照片",
+          "description": "金秀贤早上感谢粉丝，晚上8点50新闻通报金赛纶下午5时左右被发现去世的消息",
+          "imgs": {
+            "zh": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/e8/1781936405facd1401c1b3e2d4591a9ba964b5b58b.jpg"
+            ],
+            "ko": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/03/1781936405af4bf1cccc8ca7fc6a532379b7aff52f.jpg"
+            ],
+            "en": [
+              "http://img.ltwebstatic.com/v4/j/ccc/2026/06/20/0a/1781936406d8303b10a347b4d9c9ee39adda59f736.jpg"
+            ],
+            "shared": []
+          },
+          "link": [
+            {
+              "title": "金秀贤感谢粉丝新闻",
+              "url": "https://m.entertain.naver.com/home/article/112/0003747166"
+            },
+            {
+              "title": "naver按时间搜索最早的金赛纶死亡新闻",
+              "url": "https://n.news.naver.com/article/018/0005944671?sid=102"
+            }
+          ],
+          "videos": []
+        }
+      ]
+    }
+  ]
+}
